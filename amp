@@ -1,0 +1,648 @@
+<!doctype html>
+<html amp lang="id">
+<head>
+    <meta charset="utf-8">
+    <script async src="https://cdn.ampproject.org/v0.js"></script>
+    
+    <!-- AMP Script Component -->
+    <script async custom-element="amp-script" src="https://cdn.ampproject.org/v0/amp-script-0.1.js"></script>
+    
+    <title>AMERGG | Raja Slot Gacor, Togel 4D & Mix Parlay</title>
+    <meta name="description" content="AMERGG: Situs Slot Gacor, Togel Online 4D, dan Mix Parlay dengan RTP tertinggi. Deposit & Withdraw kilat, odds terbaik, layanan VIP 24 jam nonstop.">
+    <link rel="icon" type="image/webp" href="https://media.mediatelekomunikasisejahtera.com/template/alpha/desktop/assets/amergg/img/logo/favicon.webp?v=1.0">
+    <link rel="canonical" href="https://amerggcuz.com/">
+    <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+    
+    <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style>
+    <noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+
+    <style amp-custom>
+        /* ===== RESET & GLOBAL ===== */
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body {
+            font-family: 'Inter', 'Segoe UI', Roboto, system-ui, sans-serif;
+            background: linear-gradient(90deg, #662e91 0%, #b12661 100%);
+            color: #ffffff;
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+        }
+        .container {
+            max-width: 500px;
+            width: 100%;
+            margin: 0 auto;
+            padding: 24px 20px 30px;
+            text-align: center;
+            background: rgba(255, 255, 255, 0.15);
+            backdrop-filter: blur(16px);
+            -webkit-backdrop-filter: blur(16px);
+            border-radius: 56px 56px 36px 36px;
+            box-shadow: 0 24px 70px rgba(102, 46, 145, 0.45), 0 8px 30px rgba(177, 38, 97, 0.35);
+            border: 2px solid rgba(255, 255, 255, 0.25);
+            position: relative;
+            overflow: hidden;
+            animation: containerPulse 4s ease-in-out infinite;
+        }
+        @keyframes containerPulse {
+            0%, 100% { box-shadow: 0 24px 70px rgba(102, 46, 145, 0.45), 0 8px 30px rgba(177, 38, 97, 0.35); }
+            50% { box-shadow: 0 30px 90px rgba(102, 46, 145, 0.6), 0 12px 45px rgba(177, 38, 97, 0.45); }
+        }
+        .container::before {
+            content: '';
+            position: absolute;
+            top: -50%;
+            left: -50%;
+            width: 200%;
+            height: 200%;
+            background: conic-gradient(from 0deg at 50% 50%, rgba(255, 255, 255, 0.08), rgba(102, 46, 145, 0.06), rgba(177, 38, 97, 0.06));
+            animation: rotateBg 35s linear infinite;
+            pointer-events: none;
+            z-index: 0;
+        }
+        @keyframes rotateBg {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        .container > * { position: relative; z-index: 1; }
+
+        /* ===== LOGO ===== */
+        .logo-top {
+            margin-bottom: 18px;
+            filter: drop-shadow(0 4px 30px rgba(102, 46, 145, 0.5));
+            transition: filter 0.3s;
+            animation: logoFloat 3s ease-in-out infinite;
+        }
+        @keyframes logoFloat {
+            0%, 100% { transform: translateY(0px); }
+            50% { transform: translateY(-8px); }
+        }
+        .logo-top:hover { filter: drop-shadow(0 4px 45px rgba(102, 46, 145, 0.7)); }
+
+        /* ===== MARQUEE ===== */
+        .marquee-wrapper {
+            width: 100%;
+            margin-bottom: 22px;
+        }
+        .marquee-box {
+            background: rgba(255, 255, 255, 0.15);
+            backdrop-filter: blur(4px);
+            -webkit-backdrop-filter: blur(4px);
+            border: 2px solid rgba(255, 255, 255, 0.30);
+            border-radius: 60px;
+            padding: 14px 18px;
+            overflow: hidden;
+            box-shadow: 0 0 30px rgba(102, 46, 145, 0.2), inset 0 0 30px rgba(255, 255, 255, 0.05);
+            transition: border-color 0.3s, box-shadow 0.3s;
+            animation: marqueeGlow 3s ease-in-out infinite;
+        }
+        @keyframes marqueeGlow {
+            0%, 100% { box-shadow: 0 0 30px rgba(102, 46, 145, 0.2), inset 0 0 30px rgba(255, 255, 255, 0.05); }
+            50% { box-shadow: 0 0 50px rgba(102, 46, 145, 0.35), inset 0 0 40px rgba(255, 255, 255, 0.08); }
+        }
+        .marquee-box:hover {
+            border-color: rgba(255, 255, 255, 0.6);
+            box-shadow: 0 0 45px rgba(102, 46, 145, 0.3);
+        }
+        .marquee-text {
+            display: inline-block;
+            white-space: nowrap;
+            color: #ffffff;
+            font-weight: 700;
+            font-size: 13px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            animation: scroll 22s linear infinite;
+            text-shadow: 0 0 20px rgba(255, 255, 255, 0.1);
+        }
+        .marquee-text span.highlight {
+            color: #ffd700;
+            font-weight: 800;
+        }
+
+        /* ===== BANNER ===== */
+        .main-img {
+            border-radius: 28px;
+            overflow: hidden;
+            border: 3px solid rgba(255, 255, 255, 0.30);
+            box-shadow: 0 12px 40px rgba(102, 46, 145, 0.3), 0 0 60px rgba(177, 38, 97, 0.15);
+            margin-bottom: 22px;
+            animation: imagePulse 3s ease-in-out infinite;
+            position: relative;
+        }
+        @keyframes imagePulse {
+            0%, 100% { 
+                transform: scale(1);
+                box-shadow: 0 12px 40px rgba(102, 46, 145, 0.3), 0 0 60px rgba(177, 38, 97, 0.15);
+                border-color: rgba(255, 255, 255, 0.30);
+            }
+            50% { 
+                transform: scale(1.02);
+                box-shadow: 0 20px 60px rgba(102, 46, 145, 0.5), 0 0 80px rgba(177, 38, 97, 0.25);
+                border-color: rgba(255, 215, 0, 0.50);
+            }
+        }
+        .main-img::after {
+            content: '';
+            position: absolute;
+            inset: -3px;
+            border-radius: 30px;
+            background: conic-gradient(from 0deg, #662e91, #b12661, #ffd700, #662e91);
+            z-index: -1;
+            animation: borderSpin 4s linear infinite;
+            opacity: 0.6;
+        }
+        @keyframes borderSpin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        .main-img amp-img {
+            border-radius: 28px;
+            animation: imageZoom 8s ease-in-out infinite;
+        }
+        @keyframes imageZoom {
+            0%, 100% { transform: scale(1); }
+            50% { transform: scale(1.03); }
+        }
+        .main-img:hover {
+            transform: scale(1.005);
+            box-shadow: 0 16px 50px rgba(102, 46, 145, 0.4), 0 0 80px rgba(177, 38, 97, 0.2);
+        }
+
+        /* ===== STATS ROW ===== */
+        .stats-row {
+            display: flex;
+            justify-content: space-between;
+            gap: 8px;
+            margin: 0 0 20px 0;
+        }
+        .stat-card {
+            background: rgba(255, 255, 255, 0.12);
+            backdrop-filter: blur(4px);
+            -webkit-backdrop-filter: blur(4px);
+            flex: 1;
+            text-align: center;
+            padding: 12px 8px;
+            border-radius: 16px;
+            border: 1px solid rgba(255, 255, 255, 0.20);
+            border-bottom: 3px solid #ffd700;
+            transition: all 0.3s;
+            animation: statFloat 3s ease-in-out infinite;
+        }
+        .stat-card:nth-child(1) { animation-delay: 0s; }
+        .stat-card:nth-child(2) { animation-delay: 0.5s; }
+        .stat-card:nth-child(3) { animation-delay: 1s; }
+        @keyframes statFloat {
+            0%, 100% { transform: translateY(0px); }
+            50% { transform: translateY(-5px); }
+        }
+        .stat-card:hover {
+            border-color: rgba(255, 255, 255, 0.5);
+            background: rgba(255, 255, 255, 0.2);
+            transform: translateY(-2px);
+            box-shadow: 0 4px 20px rgba(102, 46, 145, 0.3);
+        }
+        .stat-num {
+            font-size: 1.1rem;
+            font-weight: 800;
+            color: #ffffff;
+            margin-bottom: 2px;
+        }
+        .stat-label {
+            font-size: 0.65rem;
+            text-transform: uppercase;
+            font-weight: 700;
+            color: rgba(255, 255, 255, 0.8);
+            letter-spacing: 0.5px;
+        }
+
+        /* ===== BUTTONS ===== */
+        .btn-container {
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+            margin-bottom: 6px;
+        }
+        .btn {
+            display: block;
+            padding: 16px 20px;
+            border-radius: 60px;
+            text-decoration: none;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.8px;
+            font-size: 15px;
+            transition: all 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+            position: relative;
+            overflow: hidden;
+            border: none;
+            text-align: center;
+        }
+        .btn::after {
+            content: '';
+            position: absolute;
+            inset: 0;
+            border-radius: 60px;
+            background: linear-gradient(135deg, rgba(255,255,255,0.20), transparent 50%);
+            pointer-events: none;
+        }
+        .btn-reg {
+            background: linear-gradient(135deg, #ffd700, #ff6b00);
+            color: #1a1a2e;
+            box-shadow: 0 6px 25px rgba(255, 215, 0, 0.4);
+            animation: buttonPulse 2s ease-in-out infinite;
+        }
+        @keyframes buttonPulse {
+            0%, 100% { 
+                box-shadow: 0 6px 25px rgba(255, 215, 0, 0.4);
+                transform: scale(1);
+            }
+            50% { 
+                box-shadow: 0 8px 35px rgba(255, 215, 0, 0.6);
+                transform: scale(1.02);
+            }
+        }
+        .btn-reg:hover {
+            transform: translateY(-2px) scale(1.01);
+            box-shadow: 0 10px 35px rgba(255, 215, 0, 0.55);
+            animation: none;
+        }
+        .btn-log {
+            background: rgba(255, 255, 255, 0.15);
+            backdrop-filter: blur(4px);
+            -webkit-backdrop-filter: blur(4px);
+            color: #ffffff;
+            border: 2px solid rgba(255, 255, 255, 0.4);
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+            animation: buttonGlow 3s ease-in-out infinite;
+        }
+        @keyframes buttonGlow {
+            0%, 100% { border-color: rgba(255, 255, 255, 0.4); }
+            50% { border-color: rgba(255, 215, 0, 0.6); }
+        }
+        .btn-log:hover {
+            background: rgba(255, 255, 255, 0.25);
+            border-color: #ffffff;
+            transform: translateY(-2px);
+            box-shadow: 0 8px 30px rgba(102, 46, 145, 0.3);
+            animation: none;
+        }
+
+        /* ===== FEATURE CHIPS ===== */
+        .feature-chips {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 8px;
+            margin: 0 0 16px 0;
+        }
+        .chip {
+            background: rgba(255, 255, 255, 0.12);
+            border-radius: 40px;
+            padding: 5px 14px;
+            font-size: 0.7rem;
+            font-weight: 600;
+            color: #ffffff;
+            border: 1px solid rgba(255, 255, 255, 0.15);
+            transition: all 0.3s;
+            animation: chipFloat 3s ease-in-out infinite;
+        }
+        .chip:nth-child(1) { animation-delay: 0s; }
+        .chip:nth-child(2) { animation-delay: 0.7s; }
+        .chip:nth-child(3) { animation-delay: 1.4s; }
+        .chip:nth-child(4) { animation-delay: 2.1s; }
+        @keyframes chipFloat {
+            0%, 100% { transform: translateY(0px); }
+            50% { transform: translateY(-3px); }
+        }
+        .chip:hover {
+            background: rgba(255, 255, 255, 0.2);
+            border-color: rgba(255, 255, 255, 0.4);
+            transform: scale(1.05);
+        }
+
+        /* ===== DESKRIPSI ===== */
+        .desc-wrapper {
+            margin-top: 22px;
+            padding: 0 4px;
+        }
+        .desc-box {
+            background: rgba(255, 255, 255, 0.10);
+            backdrop-filter: blur(4px);
+            -webkit-backdrop-filter: blur(4px);
+            border: 2px solid rgba(255, 255, 255, 0.15);
+            border-radius: 28px;
+            padding: 22px 24px;
+            text-align: justify;
+            font-size: 13.5px;
+            line-height: 1.7;
+            color: #ffffff;
+            box-shadow: 0 8px 30px rgba(0,0,0,0.1);
+            transition: border-color 0.3s, box-shadow 0.3s;
+            animation: descGlow 4s ease-in-out infinite;
+        }
+        @keyframes descGlow {
+            0%, 100% { border-color: rgba(255, 255, 255, 0.15); }
+            50% { border-color: rgba(255, 215, 0, 0.25); }
+        }
+        .desc-box:hover {
+            border-color: rgba(255, 255, 255, 0.3);
+            box-shadow: 0 8px 40px rgba(102, 46, 145, 0.2);
+        }
+        .desc-box a {
+            color: #ffd700;
+            text-decoration: none;
+            font-weight: 700;
+            transition: color 0.2s;
+            position: relative;
+        }
+        .desc-box a::after {
+            content: '';
+            position: absolute;
+            bottom: -2px;
+            left: 0;
+            width: 0;
+            height: 2px;
+            background: #ffd700;
+            transition: width 0.3s ease;
+        }
+        .desc-box a:hover {
+            color: #ffe44d;
+        }
+        .desc-box a:hover::after {
+            width: 100%;
+        }
+        .desc-box .badge-bottom {
+            display: inline-block;
+            background: rgba(255, 215, 0, 0.15);
+            padding: 5px 16px;
+            border-radius: 40px;
+            font-size: 0.7rem;
+            color: #ffd700;
+            border: 1px solid rgba(255, 215, 0, 0.2);
+            margin-top: 12px;
+            font-weight: 600;
+            animation: badgePulse 2s ease-in-out infinite;
+        }
+        @keyframes badgePulse {
+            0%, 100% { 
+                background: rgba(255, 215, 0, 0.15);
+                border-color: rgba(255, 215, 0, 0.2);
+            }
+            50% { 
+                background: rgba(255, 215, 0, 0.25);
+                border-color: rgba(255, 215, 0, 0.4);
+            }
+        }
+
+        /* ===== POPUP ===== */
+        .popup-container {
+            position: fixed;
+            bottom: 24px;
+            right: 24px;
+            z-index: 999;
+            display: flex;
+            flex-direction: column;
+            align-items: flex-end;
+            gap: 8px;
+            pointer-events: none;
+        }
+        .wd-popup {
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(8px);
+            -webkit-backdrop-filter: blur(8px);
+            color: #1a1a2e;
+            padding: 10px 18px;
+            border-radius: 16px;
+            font-size: 12px;
+            font-weight: 600;
+            box-shadow: 0 8px 30px rgba(0, 0, 0, 0.15);
+            border: 1px solid rgba(102, 46, 145, 0.2);
+            min-width: 190px;
+            text-align: left;
+            opacity: 0;
+            transform: translateX(30px) scale(0.95);
+            pointer-events: none;
+            letter-spacing: 0.2px;
+            border-left: 3px solid #662e91;
+            position: absolute;
+            bottom: 0;
+            right: 0;
+            animation: popupSlideIn 0.5s ease-out forwards;
+            animation-delay: var(--delay, 0s);
+        }
+        .wd-popup .emoji { margin-right: 8px; }
+        .wd-popup .amount { color: #662e91; font-weight: 800; }
+
+        @keyframes popupSlideIn {
+            0% { 
+                opacity: 0; 
+                transform: translateX(30px) scale(0.95);
+            }
+            100% { 
+                opacity: 1; 
+                transform: translateX(0) scale(1);
+            }
+        }
+
+        /* Popup muncul bergantian dengan delay */
+        .wd-popup:nth-child(1) { --delay: 0s; animation-duration: 0.5s; }
+        .wd-popup:nth-child(2) { --delay: 4s; animation-duration: 0.5s; }
+        .wd-popup:nth-child(3) { --delay: 8s; animation-duration: 0.5s; }
+        .wd-popup:nth-child(4) { --delay: 12s; animation-duration: 0.5s; }
+        .wd-popup:nth-child(5) { --delay: 16s; animation-duration: 0.5s; }
+        .wd-popup:nth-child(6) { --delay: 20s; animation-duration: 0.5s; }
+        .wd-popup:nth-child(7) { --delay: 24s; animation-duration: 0.5s; }
+        .wd-popup:nth-child(8) { --delay: 28s; animation-duration: 0.5s; }
+        .wd-popup:nth-child(9) { --delay: 32s; animation-duration: 0.5s; }
+        .wd-popup:nth-child(10) { --delay: 36s; animation-duration: 0.5s; }
+        .wd-popup:nth-child(11) { --delay: 40s; animation-duration: 0.5s; }
+        .wd-popup:nth-child(12) { --delay: 44s; animation-duration: 0.5s; }
+        .wd-popup:nth-child(13) { --delay: 48s; animation-duration: 0.5s; }
+        .wd-popup:nth-child(14) { --delay: 52s; animation-duration: 0.5s; }
+        .wd-popup:nth-child(15) { --delay: 56s; animation-duration: 0.5s; }
+        .wd-popup:nth-child(16) { --delay: 60s; animation-duration: 0.5s; }
+        .wd-popup:nth-child(17) { --delay: 64s; animation-duration: 0.5s; }
+        .wd-popup:nth-child(18) { --delay: 68s; animation-duration: 0.5s; }
+        .wd-popup:nth-child(19) { --delay: 72s; animation-duration: 0.5s; }
+        .wd-popup:nth-child(20) { --delay: 76s; animation-duration: 0.5s; }
+
+        .wd-popup.hidden {
+            animation: popupSlideOut 0.5s ease-in forwards;
+        }
+        @keyframes popupSlideOut {
+            0% { 
+                opacity: 1; 
+                transform: translateX(0) scale(1);
+            }
+            100% { 
+                opacity: 0; 
+                transform: translateX(30px) scale(0.95);
+            }
+        }
+
+        @keyframes scroll {
+            0% { transform: translateX(100%); }
+            100% { transform: translateX(-100%); }
+        }
+
+        /* ===== FOOTER ===== */
+        footer {
+            text-align: center;
+            padding-top: 25px;
+            color: rgba(255, 255, 255, 0.6);
+            font-size: 11px;
+            letter-spacing: 0.5px;
+        }
+        footer a {
+            color: #ffd700;
+            text-decoration: none;
+            font-weight: 700;
+        }
+        footer a:hover {
+            color: #ffe44d;
+        }
+
+        /* ===== AMP SCRIPT STYLES ===== */
+        amp-script {
+            display: none;
+        }
+
+        /* ===== RESPONSIVE ===== */
+        @media (max-width: 420px) {
+            .container { padding: 18px 14px 24px; margin: 12px; border-radius: 36px; }
+            .marquee-text { font-size: 11px; }
+            .btn { font-size: 13px; padding: 14px 16px; }
+            .desc-box { font-size: 12.5px; padding: 18px 18px; }
+            .wd-popup { font-size: 11px; min-width: 160px; padding: 8px 14px; }
+            .popup-container { bottom: 16px; right: 16px; }
+            .stat-num { font-size: 0.95rem; }
+            .stat-label { font-size: 0.6rem; }
+            .main-img { animation-duration: 2s; }
+        }
+        @media (max-width: 360px) {
+            .container { padding: 14px 10px 18px; }
+            .marquee-box { padding: 10px 14px; }
+            .marquee-text { font-size: 10px; }
+            .btn { font-size: 12px; padding: 12px 12px; letter-spacing: 0.4px; }
+            .desc-box { font-size: 11.5px; padding: 14px 14px; }
+            .wd-popup { font-size: 10px; min-width: 140px; padding: 6px 12px; }
+            .stat-num { font-size: 0.85rem; }
+            .stat-label { font-size: 0.55rem; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- LOGO -->
+        <div class="logo-top">
+            <amp-img src="https://media.mediatelekomunikasisejahtera.com/template/alpha/desktop/assets/amergg/img/logo/logo.webp" 
+                     width="220" height="70" layout="intrinsic" alt="AMERGG Logo">
+            </amp-img>
+        </div>
+
+        <!-- MARQUEE -->
+        <div class="marquee-wrapper">
+            <div class="marquee-box">
+                <div class="marquee-text">
+                    ⚡ <span class="highlight">AMERGG</span> – SLOT GACOR MAXWIN | TOGEL 4D TERLENGKAP | MIX PARLAY PIALA DUNIA 2026 🔥 DEPO WD KILAT 5 DETIK | BONUS MELIMPAH 🎯
+                </div>
+            </div>
+        </div>
+
+        <!-- BANNER - GAMBAR BERGERAK -->
+        <div class="main-img">
+            <amp-img src="https://res.cloudinary.com/dnjhs0kqu/image/upload/v1780732427/AMERGG_tomngw.jpg" 
+                     width="600" height="600" layout="responsive" alt="Banner AMERGG">
+            </amp-img>
+        </div>
+
+        <!-- STATS -->
+        <div class="stats-row">
+            <div class="stat-card">
+                <div class="stat-num">⭐ 750K+</div>
+                <div class="stat-label">Member Aktif</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-num">⚡ 3 Detik</div>
+                <div class="stat-label">Deposit Kilat</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-num">🏆 24/7</div>
+                <div class="stat-label">VIP Support</div>
+            </div>
+        </div>
+
+        <!-- BUTTONS -->
+        <div class="btn-container">
+            <a href="https://coffemix.store/gameamer" class="btn btn-reg" rel="nofollow">🚀 Login Premium</a>
+            <a href="https://coffemix.store/gameamer" class="btn btn-log" rel="nofollow">✨ Daftar VIP Sekarang</a>
+        </div>
+
+        <!-- DESKRIPSI -->
+        <div class="desc-wrapper">
+            <div class="desc-box">
+                <div class="feature-chips">
+                    <span class="chip">#SLOT GACOR</span>
+                    <span class="chip">#TOGEL 4D/3D/2D</span>
+                    <span class="chip">#MIX PARLAY</span>
+                    <span class="chip">#ODDS TERTINGGI</span>
+                </div>
+                <p style="margin-bottom: 10px;">
+                    Selamat datang di <a href="https://amerggcuz.com/">AMERGG</a>, platform terbaik untuk <strong>Slot Gacor, Togel Online 4D, dan Mix Parlay Piala Dunia 2026</strong>. Dengan sistem keamanan enkripsi canggih, <a href="https://amerggcuz.com/">AMERGG</a> menjamin setiap transaksi member berjalan aman, cepat, dan transparan.
+                </p>
+                <p>
+                    Rasakan sensasi bermain ribuan game slot dengan RTP live tertinggi, pasaran togel terlengkap dengan diskon besar, serta odds mix parlay terbesar untuk event sepakbola dunia. Proses <strong>Deposit & Withdraw super kilat</strong> kurang dari 10 detik, transaksi aman dan tanpa potongan. Layanan <strong>VIP 24 jam</strong> siap membantu Anda kapanpun.
+                </p>
+                <div style="text-align: center; margin-top: 14px;">
+                    <span class="badge-bottom">⚽ Resmi Partner Mix Parlay Piala Dunia 2026 🎰</span>
+                </div>
+            </div>
+        </div>
+
+        <footer>
+            &copy; 2026 <a href="https://amerggcuz.com/">AMERGG</a> - Situs Slot Gacor, Togel &amp; Mix Parlay Piala Dunia Terpercaya
+        </footer>
+    </div>
+
+    <!-- ===== POPUP KEMENANGAN ===== -->
+    <div class="popup-container">
+        <div class="wd-popup"><span class="emoji">🎉</span> Putra*** <span class="amount">WD Rp 8.200.000!</span></div>
+        <div class="wd-popup"><span class="emoji">🎉</span> Citra*** <span class="amount">WD Togel Rp 6.750.000!</span></div>
+        <div class="wd-popup"><span class="emoji">🎉</span> Bayu*** <span class="amount">WD Parlay Rp 12.400.000!</span></div>
+        <div class="wd-popup"><span class="emoji">🎉</span> Dewi*** <span class="amount">WD Slot Rp 4.900.000!</span></div>
+        <div class="wd-popup"><span class="emoji">🎉</span> Fajar*** <span class="amount">WD Slot Rp 9.300.000!</span></div>
+        <div class="wd-popup"><span class="emoji">🎉</span> Gita*** <span class="amount">WD Togel Rp 18.600.000!</span></div>
+        <div class="wd-popup"><span class="emoji">🏆</span> Irfan*** <span class="amount">JP Slot Rp 43.200.000!</span></div>
+        <div class="wd-popup"><span class="emoji">💰</span> Lina*** <span class="amount">WD Parlay Rp 7.800.000!</span></div>
+        <div class="wd-popup"><span class="emoji">💰</span> Yoga*** <span class="amount">WD Slot Rp 3.500.000!</span></div>
+        <div class="wd-popup"><span class="emoji">💰</span> Sari*** <span class="amount">WD Togel Rp 9.900.000!</span></div>
+        <div class="wd-popup"><span class="emoji">💰</span> Andi*** <span class="amount">WD Slot Rp 6.100.000!</span></div>
+        <div class="wd-popup"><span class="emoji">🏆</span> Rina*** <span class="amount">JP Parlay Rp 61.800.000!</span></div>
+        <div class="wd-popup"><span class="emoji">💰</span> Dedi*** <span class="amount">WD Slot Rp 22.500.000!</span></div>
+        <div class="wd-popup"><span class="emoji">💰</span> Maya*** <span class="amount">WD Togel Rp 34.700.000!</span></div>
+        <div class="wd-popup"><span class="emoji">💰</span> Agus*** <span class="amount">WD Slot Rp 15.200.000!</span></div>
+        <div class="wd-popup"><span class="emoji">🏆</span> Nia*** <span class="amount">JP Parlay Rp 88.300.000!</span></div>
+        <div class="wd-popup"><span class="emoji">💰</span> Rizki*** <span class="amount">WD Slot Rp 27.400.000!</span></div>
+        <div class="wd-popup"><span class="emoji">💰</span> Tia*** <span class="amount">WD Togel Rp 11.200.000!</span></div>
+        <div class="wd-popup"><span class="emoji">💰</span> Wawan*** <span class="amount">WD Slot Rp 5.600.000!</span></div>
+        <div class="wd-popup"><span class="emoji">🏆</span> Zara*** <span class="amount">JP Parlay Rp 72.900.000!</span></div>
+    </div>
+
+    <!-- ===== AMP SCRIPT UNTUK POPUP ===== -->
+    <amp-script script="popup-script" layout="container">
+        <div id="amp-popup-placeholder"></div>
+    </amp-script>
+
+    <script id="popup-script" type="text/plain" target="amp-script">
+        // Auto hide popup after 4 seconds
+        document.querySelectorAll('.wd-popup').forEach(function(popup, index) {
+            var delay = index * 4;
+            setTimeout(function() {
+                popup.classList.add('hidden');
+            }, delay + 4000);
+        });
+    </script>
+</body>
+</html>
